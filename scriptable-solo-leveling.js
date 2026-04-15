@@ -68,7 +68,7 @@ function createDefaultData() {
 }
 
 function xpNeededForLevel(level) {
-  return Math.floor(100 * Math.pow(level, 1.35));
+  return Math.floor(65 * Math.pow(level + 17, 1.35));
 }
 
 function levelFromXp(totalXp) {
