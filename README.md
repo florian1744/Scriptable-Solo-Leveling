@@ -82,7 +82,7 @@ Use this for extra effort beyond the daily quest minimum.
 | Strength | +15 | Calisthenics, workout session |
 | Cardio | +12 | Zone 2 walk, running, cycling |
 | Self | +10 | Deep reading, financial study, nutrition learning |
-| Escape | +20 | Programming, side project, business building |
+| Escape | +20 | side project, business building, anything that could escape you from something you dislike e.g. the 9-5 |
 
 ### In-App Menu
 
@@ -108,7 +108,7 @@ Open Scriptable and run the script manually to access the full menu:
 | 20 Min Reading | Daily Quest only |
 | 45 Min+ Reading | Daily Quest + Add Self |
 | Any workout | Add Strength |
-| Zone 2 / Cardio session | Add Cardio |
+| Zone 3 / Cardio session | Add Cardio |
 
 **Rule of thumb:** Daily Quest = minimum done. Quick Add = extra effort rewarded.
 
