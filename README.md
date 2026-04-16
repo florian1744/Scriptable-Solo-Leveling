@@ -22,7 +22,7 @@ with a large homescreen widget as your command center.
 
 1. Install [Scriptable](https://apps.apple.com/app/scriptable/id1405459188) on your iPhone.
 2. Open Scriptable and create a new script.
-3. Paste the complete `SoloSystem.js` code into the editor.
+3. Paste the complete `scriptable-solo-leveling.js` code into the editor.
 4. Save the script as **`SoloSystem`**.
 5. Run the script once manually so it creates `solo-system-data.json` in iCloud Drive.
 6. Add a **Large Scriptable Widget** to your homescreen.
